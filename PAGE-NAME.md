@@ -1,6 +1,6 @@
 layout: page
 title: "teste"
-permalink: /teste
+permalink: /teste/
 
 
 # TESTE
